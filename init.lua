@@ -1,0 +1,7 @@
+require('plugins')
+require('file-explorer')
+require('mason-config')
+require('gopls')
+require('styling')
+require('code-completion')
+require('python-lsp-server')
